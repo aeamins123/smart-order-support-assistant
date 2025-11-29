@@ -56,8 +56,3 @@ adk web --session_service_uri sqlite:///my_agent_data.db --log_level=debug
 ```
 
 Interact with the agents to process order issues. For damaged items, provide an image  when prompted.
-
----
-```
-
-I'm ready to create this `README.md` file. Please switch to Act mode when you're ready for me to proceed.
