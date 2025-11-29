@@ -1,0 +1,8 @@
+CUSTOMER WARRANTY — Summary
+
+• Unlimited coverage for accidental + shipping damage within first 6 months.
+• For customers:
+    - Free replacement is the preferred resolution.
+    - Refunds are allowed if issue is reported within 7 days of purchase date.
+• No requirement to return damaged items if the order value is under $150.
+• Resolutions must be completed within 7 business days (SLA).
